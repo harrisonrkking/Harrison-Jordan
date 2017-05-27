@@ -1,0 +1,16 @@
+name of event
+
+number of people
+
+names of people(WIll need js for this)
+
+number of events
+
+for each event: name
+	-who is contributing to that event
+	-overall cost(Or could be per person, should make this an option)
+	
+
+then distribute cost for everything
+
+Have a spot where you can enter who payed for what and it will let you take money off it

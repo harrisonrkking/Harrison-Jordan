@@ -1,9 +1,9 @@
 <?php 
 
-echo '<h1>Harrison and Jordan</h1>';
+echo "<h1>Harrison and Jordan</h1>";
 
 if(true){
-	echo 'jordan smells';
+	echo "jordan smells";
 }
 
 ?>
